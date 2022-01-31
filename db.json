@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "Cherries",
+      "category": "Fruit",
+      "freshness": "Brand New",
+      "date": "2022-01-30T06:00:00.000Z",
+      "price": 2,
+      "comment": "Taste good",
+      "id": 2
+    },
+    {
+      "productName": "Steak",
+      "category": "Meat",
+      "freshness": "Week Old",
+      "date": "2022-01-24T06:00:00.000Z",
+      "price": 10,
+      "comment": "Decent",
+      "id": 3
+    },
+    {
+      "productName": "Cheese",
+      "category": "Dairy",
+      "freshness": "Brand New",
+      "date": "2022-01-03T06:00:00.000Z",
+      "price": 5,
+      "comment": "Cheddar",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
