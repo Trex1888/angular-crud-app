@@ -53,7 +53,7 @@ export class DialogComponent implements OnInit {
             this.dialogRef.close('save');
           },
           error: () => {
-            alert('Error while adding the product');
+            alert('Error While Adding The Product');
           },
         });
       }
@@ -70,7 +70,7 @@ export class DialogComponent implements OnInit {
         this.dialogRef.close('update');
       },
       error: () => {
-        alert('Error while updating the record!');
+        alert('Error While Updating The Record!');
       },
     });
   }

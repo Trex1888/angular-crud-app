@@ -5,7 +5,7 @@
       "category": "Fruit",
       "freshness": "Brand New",
       "date": "2022-01-30T06:00:00.000Z",
-      "price": 2,
+      "price": 2.5,
       "comment": "Taste good",
       "id": 2
     },
@@ -26,6 +26,24 @@
       "price": 5,
       "comment": "Cheddar",
       "id": 5
+    },
+    {
+      "productName": "Oranges",
+      "category": "Fruit",
+      "freshness": "Week Old",
+      "date": "2022-01-24T06:00:00.000Z",
+      "price": 6.99,
+      "comment": "Okay",
+      "id": 6
+    },
+    {
+      "productName": "Milk",
+      "category": "Dairy",
+      "freshness": "Week Old",
+      "date": "2022-01-24T06:00:00.000Z",
+      "price": 3.99,
+      "comment": "Good price",
+      "id": 7
     }
   ],
   "comments": [

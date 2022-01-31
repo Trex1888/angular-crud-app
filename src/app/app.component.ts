@@ -54,7 +54,7 @@ export class AppComponent implements OnInit {
         this.dataSource.sort = this.sort;
       },
       error: (err) => {
-        alert('Error while fetching records!');
+        alert('Error While Fetching Records!');
       },
     });
   }
@@ -80,7 +80,7 @@ export class AppComponent implements OnInit {
         this.getAllProducts();
       },
       error: () => {
-        alert('Error while deleting the product!');
+        alert('Error While Deleting The Product!');
       },
     });
   }
